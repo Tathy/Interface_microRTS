@@ -1,4 +1,4 @@
-# Interface microRTS
+# Interface MicroRTS
 In this proejct, we introduce an interface to simplify the development of scripts for MicroRTS.
 
 This interface uses a DSL focused on MicroRTS actions, called MicroLanguage.
