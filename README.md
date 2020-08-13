@@ -11,3 +11,5 @@ Steps to execute the project:
 * (Windows and Mac) Double-click the jar's file called MicroRTSinterface.jar.
 
 * (Linux) Open terminal in the source folder, and type "java -jar MicroRTSinterface.jar"
+
+The project needs JSE or JDK 1.8 to perform correctly.
