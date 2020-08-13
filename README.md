@@ -5,7 +5,7 @@ This interface uses a DSL focused on MicroRTS actions, called MicroLanguage.
 
 This work is part of a research project from the Universidade Federal de Viçosa, which aims to study the advantages of this kind of approach in building programs for playing MicroRTS and the impacts of such an approach on programmers’ productivity.
 
-Steps to execute the jar:
+Steps to execute the project:
 *  Download (or clone) the repository.
 
 * (Windows and Mac) Double-click the jar's file called MicroRTSinterface.jar.
