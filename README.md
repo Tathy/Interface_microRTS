@@ -12,4 +12,4 @@ Steps to execute the project:
 
 * (Linux) Open terminal in the source folder, and type "java -jar MicroRTSinterface.jar"
 
-The project needs [JSE or JDK 1.8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) to perform correctly.
+The project needs [JSE or JDK version 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) to perform correctly.
