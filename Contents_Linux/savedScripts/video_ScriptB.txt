@@ -1,0 +1,5 @@
+build(Barrack,1,Down)
+harvest(1)
+for(u) (if(HaveQtdUnitsAttacking(Heavy,2,u)) then(train(Light,5,EnemyDir,u)) if(HaveUnitsinEnemyRange(Light,u)) then(attack(Light,closest,u)) attack(Light,weakest,u))
+train(Heavy,10,EnemyDir)
+attack(Heavy,closest)
