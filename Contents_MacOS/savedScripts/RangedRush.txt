@@ -1,0 +1,4 @@
+harvest(1)
+build(Barrack,1,Down)
+train(Ranged,10,EnemyDir)
+attack(Ranged,closest)
